@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals humbly offered to the consideration of the King's most Excellent Majesty, and of the Lords and Commons in Parliament: by Wa. Williams of the Middle Temple, barrister at law in order to regulate proceedings in Courts of Equity, by Act of Parliament</title>
+            <author>Williams, Walter, of the Middle Temple.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1701</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66459</idno>
+            <idno type="STC">Wing W2777A</idno>
+            <idno type="STC">ESTC T96965</idno>
+            <idno type="EEBO-CITATION">99834493</idno>
+            <idno type="PROQUEST">99834493</idno>
+            <idno type="VID">38994</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38994)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1900:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals humbly offered to the consideration of the King's most Excellent Majesty, and of the Lords and Commons in Parliament: by Wa. Williams of the Middle Temple, barrister at law in order to regulate proceedings in Courts of Equity, by Act of Parliament</title>
+                  <author>Williams, Walter, of the Middle Temple.</author>
+               </titleStmt>
+               <extent>[2]p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1701?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Law Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:38994:1"/>
+            <head>PROPOSALS</head>
+            <head type="sub">Humbly Offered to the Conſideration of the King's moſt Excellent Majeſty, and of the <hi>Lords</hi> and <hi>Commons</hi> in Parliament: By <hi>Wa. Williams</hi> of the <hi>Middle Temple,</hi> Barriſter at Law, in order to Regulate Proceedings in <hi>Courts of Equity,</hi> by Act of Parliament.</head>
+            <p>EVERY thing appears the more viſible, when compared with what is moſt contrary to it; and I humbly conceive it may be a help to diſcover, in part, what is fit to be Altered and Releived againſt, in Proceedings in Courts of <hi>Equity;</hi> by comparing the preſent Practice with the Primitive; which I think are very Contrary to each other in many Particulars, of which I ſhall mention a few.</p>
+            <p>In <hi>Rolls</hi>'s Reports, 1ſt. <hi>Part, Fol.</hi> 330, and 331. In the Caſe of <hi>Vawdry</hi> and <hi>Pannell.</hi>
+               <note place="margin">
+                  <hi>The old way of Relief againſt miſtaken</hi> Decrees <hi>in</hi> Equity.</note> It is ſaid, That in the 42d. and 43d. of Queen <hi>Elizabeth,</hi> it was Reſolved, by all the Ju<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of <hi>England</hi> under th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat a <hi>Decree</hi> was made in the <hi>High Court of Chancery,</hi> the Queen, upon Petition to her, might refer it to Juſtices (but not to any other) to Examine and Reverſe the <hi>Decree,</hi> if there were Cauſe, and that the then <hi>Lord Chancellor</hi> did agree to that Reſoluti<g ref="char:EOLhyphen"/>on: And this, I think, a very good Authority.</p>
+            <p>In <hi>Rolls</hi>'s Reports, <hi>Part</hi> 2d. <hi>Fol.</hi> 434. In the Cauſe of <hi>Hudſon</hi> againſt <hi>Midleton.</hi> It is ſaid, That in Time paſt the <hi>Chancellor</hi> uſed to ſend for the <hi>Judges,</hi> to know when <hi>Equity</hi> was to be Admitted againſt the <hi>Common Law,</hi> and when not; for, as is there ſaid, the <hi>Common Law</hi> was not to be altered for every Pancy, and that it was difficult to know when <hi>Equity</hi> is to take Place againſt the <hi>Common Law.</hi>
+            </p>
+            <p>That Men well skilled and knowing in the <hi>Common Law,</hi> are fit to Correct the Errors of <hi>Courts of Equity:</hi> I humbly conceive this may be a Reaſon. The <hi>Common</hi> and <hi>Statute Laws</hi> are the main Rules and Meaſures of <hi>Right</hi> and <hi>Wrong;</hi> and therefore when a Queſtion ariſes, Whether <hi>Equity</hi> ſhall Con<g ref="char:EOLhyphen"/>trol the <hi>Common-Law,</hi> great Regard ought to be had to the Meaning and Intent of the <hi>Law,</hi> not to go point blanck againſt it; and it is evident, none can have ſuch effectual Regard to the <hi>Common Law,</hi> but ſuch as well know and underſtand it: So that, as I conceive, it is a ſort of legal <hi>Equity,</hi> an <hi>Equi<g ref="char:EOLhyphen"/>ty</hi> qualified by <hi>Law,</hi> and not the Common, Natural, and ſeeming <hi>Equity</hi> of ſuch as are not skill<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in the <hi>Law</hi> is to take place in Judicature: And tho the Judges of the <hi>Common Law,</hi> when they Judge in a Courſe of <hi>Law,</hi> are ty'd to Rules of <hi>Law,</hi> and obſerve them ſtrictly, to prevent the Confuſion that might be, if <hi>Law</hi> and <hi>Equity</hi> did run in one Channel; yet when they Judge in a Courſe of <hi>Equity,</hi> and are at Liberty ſo to do, I humbly Conceive they are the fitter to Judge when <hi>Eqvity</hi> is to Over-rule, or Supply the <hi>Law,</hi> by ſo much as they are the more knowing in the <hi>Law.</hi>
+            </p>
+            <p>There are ſeveral Inſtances of References by Queen <hi>Elizabeth,</hi> King <hi>James</hi> the 1ſt. and King <hi>Charles</hi> the 1ſt. upon Complaint of miſtaken <hi>Decrees,</hi> and thoſe were thought Times of good Adminiſtration of <hi>Juſtice,</hi> and free from Complaints againſt Proceedings in <hi>Equity,</hi> for ought as I can find: And when <hi>Monarchy</hi> was Reſtor'd in King <hi>Charles</hi> the 2d. after a long Diſcontinuance, that Courſe was propoſed to be Revived, but it was then, and hath been ſince ſaid, That the King could not Legally grant ſuch References: But that Matter would never be admitted to be Debated before him, nor ſince.</p>
+            <p>If a Man ſuppoſeth himſelf Injur'd by a Judgment in the <hi>Kings-Bench, Common-Pleat,</hi> or <hi>Exchequer,</hi>
+               <note place="margin">Relief againſt errone<g ref="char:EOLhyphen"/>ous Judgments at Law, to be had at all times.</note> in the <hi>Law</hi> Proceedings there; and in a Cauſe Originally Commenced in one of thoſe Courts, he hath an immediate Remedy, without waiting for a Parliament, and he may ſtop Execution on ſuch Judg<g ref="char:EOLhyphen"/>ment, by bringing a Writ of Error; ſo that he is not lyable to be forced out of the Poſſeſſion of his Land or Money by the Judgment of any one of thoſe Courts, without the Concurrence of another Court; and this is not lookt upon to be any Reflection upon the Judges of the Court where the firſt Judgment was given.</p>
+            <p>In like manner it is as to Decrees and Sentences in the Eccleſiaſtical Courts and Court of the Admi<g ref="char:EOLhyphen"/>ralty, upon which a Man may have an immediate Appeal; and unleſs the Court Appeal'd to, doth concur with the Court that made the Decree or Sentence complain'd of, ſuch Decree or Sentence is of no effect; And therefore I humbly conceive there ſhould be an immediate Appeal in the Intervals of Parliament from the Courts of Equity as to Equity, as there is from other Courts of Law as to Law, indeed it may be that Writs of Error and Appeals may be brought oftentimes for delay; but that delay is Recompenc'd with Coſts of Suit, if the Judgment or Sentence be affirmed and it is evi<g ref="char:EOLhyphen"/>dent, that. That Courſe keeps things in ſo good Order in thoſe Courts, where Writs of Error and Appeals do lie, that we rarely meet with a Judgment of any of thoſe Courts Reverſed in Parliament in point of Judgment only.</p>
+            <p>The having of an Appeal to Parliament from a Decree in Equity, may often happen too late:
+<note place="margin">Appeals <hi>to</hi> Parlia<g ref="char:EOLhyphen"/>ment, <hi>not to be always had when Occaſion Re<g ref="char:EOLhyphen"/>quires.</hi>
+               </note> For if a Man be forc'd to obey a miſtaken Decree in the Interval of Parliament, when a Parliament comes, he hath a hard Game to play that hath been forced to part with his Weapons, his Money; to his Adverſary, and knows not where to get more; and perhaps before the miſtaken Decree be Re<g ref="char:EOLhyphen"/>vers'd, the Party that got the Money by ſuch Decree may be dead without Aſſets, or run out of reach; and though Parliaments have ſate pretty often of late, yet in time of Peace they may not ſit ſo often.</p>
+            <p>Some will ſay there is not ſo much need of an immediate Appeal from a Court of Equity in the Intervals of Parliament: becauſe a Man, if he apprehends himſelf injur'd by a Decree in Equity, may Re-hear his Cauſe; and after that he may have a Bill of Review.</p>
+            <p>In Anſwer to which, I ſay it is true, Re hearings may be had in Courts of Equity;
+<note place="margin">
+                  <hi>As to</hi> Rehearings <hi>in the ſame</hi> Court <hi>where the miſtaken</hi> Decree <hi>was made.</hi>
+               </note> But I have heard it ſaid by a Court of Equity, That though Bills of Re-view were Matter of Right, yet Re-hearings were Matter of Favour only; and I have known ſome Cauſes have been often Re-heard, and other Cauſes that I thought deſerved it, could not obtain that Favour of being once Re-heard; and a Re<g ref="char:EOLhyphen"/>hearing is not to be had after the Decree is Regularly ſign'd and inroll'd, though it be ever ſo errone<g ref="char:EOLhyphen"/>ous or miſtaken: So that if a Re-hearing be had at all, it is, for the moſt part, before the Party or Parties that made the ſuppoſed miſtaken Decree: And though it is not to be denied, but a Man may alter his Opinion upon a Re-hearing; yet it was once the Opinion of the Commons in Parliament, as appears on the Roll, 21 <hi>E.</hi> 3. <hi>Nu.</hi> 26. (according to <hi>Cotten</hi>'s Abridgment,) That it is not likely a Man will have a good Conceit againſt his own Opinion; and that was given as a Reaſon by the Commons in their Petition, That erroneous Judgments in the Exchequer ſhould be Redreſs'd in the <hi>King's Bench,</hi> the Court of Exchequer before that time making as if they would rectifie their own Er<g ref="char:EOLhyphen"/>rors: And the King's Anſwer to that Petition was, That he would grant Commiſſions to examine and correct the Errors of the Exchequer: but that did not ſatisfie; and after ſeveral attempts it was Enacted, 31 <hi>E</hi> 3. <hi>cap.</hi> 12. That the Chancellor and Treaſurer calling ſuch Judges and Sages of the Law to their aſſiſtance as they ſhould think fit ſhould upon Complaint correct the Errors of the Ex<g ref="char:EOLhyphen"/>chequer,
+<pb facs="tcp:38994:2" rendition="simple:additions"/>and that was without Limitation, as to Judgments given before the Statute as well as after, though a Writ of Error lay then from <hi>Exchecquer</hi> Judgments to <hi>Parliament.</hi>
+            </p>
+            <p>As to Bills of Review in former time,
+<note place="margin">
+                  <hi>As to</hi> Bills <hi>of</hi> Review.</note> (as is ſaid in <hi>Roll</hi>'s Abridgment, tit. Chancery, <hi>fo.</hi> 182.) if a Chancellor Erred in Conſcience upon the Matter of Fact proved before him; that is, as I take it, if he made a Decree contrary to the Proofs in the Cauſe, or without good Proofs, there might have been a Re-view upon that Matter of Fact, becauſe there needed no new Examinations; but it might be re-viewed upon the firſt Depoſitions, and that was uſual, as is there ſaid: and I have ſeen ſome Preſidents, wherein the Depoſieions taken in the Original Cauſe, have been Read at the Hearing up<g ref="char:EOLhyphen"/>on the Bill of Re-view: But ſince that the Caſe is alter'd, and the Depoſitions in the Original Cauſe have been deny'd to be look'd into upon a Bill of Review; and I think the Practice is ſo ſtill, unleſs it is very lately alter'd: So that if a Decree be made ever ſo contrary to the Proofs in the Cauſe or with<g ref="char:EOLhyphen"/>out any Proofs, there's no remedy againſt ſuch a Decree by Bill of Review, all Bills of Review being of late confined and reſtrain'd to Error in Law, as they call it, appearing on the Face of the Decree as it is drawn up without regarding the Proofs: and beſides, before a Bill of Review is admitted to be brought, the Decree muſt be performed, if it be for the Payment of Money, unleſs the Party that is to pay it will ſwear he is not able to pay it, or render himſelf to Priſon, till the Cauſe on the Review be determin'd: and the bringing of a Bill of Review is very chargeable to the Client, for it muſt recite all the firſt Bill; and the Anſwer and Pleadings, and all the Orders in the Cauſe,</p>
+            <p>
+               <note place="margin">
+                  <hi>The Firſt</hi> Propoſal.</note>For which Reaſons, amongſt others that might be named, I humbly propoſe, Firſt, That inſtead of Re-hearings and Bills of Review in the ſame Court where the ſuppoſed miſtaken Decree was made, that if a Man ſhall think himſelf injur'd by any Decree or Decretal Order hereafter to be made, or wherein the Proofs and Merits of the Cauſe have been deny'd to be look'd into, or conſider'd on a Bill of Review the Judges of the <hi>King's Bench</hi> and <hi>Common-Pleas,</hi> or ſuch other Perſons as the Parliament ſhall think fit may re-hear ſuch Cauſe once and no more, upon the full Merits and Depoſitions, not<g ref="char:EOLhyphen"/>withſtanding any Inrollment of ſuch Decree, or any Proceedings thereupon had.</p>
+            <p>
+               <note place="margin">
+                  <hi>The Second</hi> Propoſal.</note>And for-as-much as it gives a great Opportunity for Revenge, and is a great Incouragement to vexatious Men to Commence cauſeleſs Suits, or Suits upon ſlight Grounds in Equity, and to withſtand juſt Demands by all the Delays and Devices imaginable that Courts of Equity do not always give un<g ref="char:EOLhyphen"/>to the Party prevailing his reaſonable and neceſſary Coſts, and oftentimes they have no Coſts at all; ſo that they often pay dear for their Equity that have it: Whereas, as I humbly conceive, if it were a certain ſtanding Rule, That he that is in the Wrong in a Cauſe in Equity, ſhould pay the other Party his full, reaſonable and neceſſary Coſts, Men would be very careful upon what Grounds they would Commence Suits in Equity, and never do it but when they thought they had good Cauſe; and in all Caſes both ſides would be deſirous to come to a ſpeedy Determination, for tear of the great Coſts that a tedious Suit might occaſion, when they know it will all fall on the one or the other in the End: And therefore I humbly propoſe further, That it be Enacted, that the Party in the Wrong in all Suits in Equity, ſhall pay the other ſide his full, reaſonable and neceſſary Coſts, without which he could not well proſecute or defend the Suit.</p>
+            <p>
+               <note place="margin">
+                  <hi>The Third</hi> Propoſal.</note>And whereas it is one of the moſt uſeful things amongſt the Proceedings of Courts of Equity, to compel Diſcovery by Anſwers upon Oath of Matters concealed; and for that it hath, and may often happen, that by means of ſuch Concealment, the Right to an Eſtate may ſeem to be in the Party that ſo conceals; and in ſuch Caſes it is uſual for the Party that hath a ſeeming Right, during ſuch conceal<g ref="char:EOLhyphen"/>ment to Exhibit a Bill in a Court of Equity, to compel him that hath the real, but conceal'd and un<g ref="char:EOLhyphen"/>diſcover'd Right, to releaſe to the Party concealing; and in ſuch Caſes it is uſual for him againſt whom ſuch Bill is Exhibited, to Exhibit a Croſs Bill for a diſcovery: And if he that ſo conceals, puts in an imperfect, or a ſhifting evaſive Anſwer, and by the negligence or fraud of an Agent or Solici<g ref="char:EOLhyphen"/>tor Exceptions are not taken to ſuch Anſwer, the conceal'd Matter by that means lies undiſcover'd un<g ref="char:EOLhyphen"/>til after a Decree paſſeth otherwiſe then it might or ſhould have done, if the conceal'd Matter had been diſcover'd; in ſuch Caſes (according to the Opinion of ſome Judges in Equity) the Party that had right to ſuch diſcovery hath no remedy either by a new Bill or otherwiſe, to compel the Party guilty of ſuch Concealment, and anſwering ſo imperfectly, to make a perfect Anſwer, or to be relieved a<g ref="char:EOLhyphen"/>gainſt ſuch Concealment; which if it were ſo, ſince moſt Men in ſuch Matters depend upon Agents and Solicitors: It may be in many Caſes in the Power of a Solicitor, by Confederating againſt his Client, and not taking Exceptions to ſuch inſufficient Anſwers, to ſell away any Man's Right, which may be a thing of general Miſchief: Wherefore I humbly propoſe further, that it may be declared by Act of Parliament, That if any perſon is or ſhall be aggrieved by ſuch imperfect Anſwer or Concealment, that he may be Relieved in Courts of Equity in ſuch Caſes by a new Bill, notwithſtanding any for<g ref="char:EOLhyphen"/>mer Decree or forc'd Obedience thereto.</p>
+            <p>I find it Objected, That if Remedy ought to be provided in the Caſes above-mention'd, ſuch Re<g ref="char:EOLhyphen"/>medy ought to extend but to Decrees hereafter to be made, and not to Decrees already made.</p>
+            <p>To which I Anſwer,
+<note place="margin">
+                  <hi>Whether the Remedy propos'd ought to extend to any paſs'd</hi> Decrees.</note> That I conceive it as reaſonable to provide Remedy by Act of Parliament a<g ref="char:EOLhyphen"/>gainſt Injuries paſſed, as to come, eſpecially in Caſes where an old Law or Courſe of Juſtice or Equi<g ref="char:EOLhyphen"/>ty hath been deny'd; and if it was a regular Courſe for a Subject injurd by a Decree in Chancery, or other Court of Equity; to have the Proofs and Merits of the Original Cauſe lookt into upon a Bill of Review, as it hath formerly been practiced, and that hath been deny'd to any, I humbly conceive it very conſiſtent with Equity and Juſtice, that ſuch ſhould be provided for by Act of Parliament.</p>
+            <p>The Statute of 31 <hi>E.</hi> 3 <hi>cap.</hi> 12. that gives the Chancellor and Treaſurer, and others therein named, Power to rectifie erroneous Judgments in the Exchequer, though it was a remedy purely new, and not to revive an old remedy, or inſtead of an old remedy; yet the remedy provided by that Statute extends to all Judgments in the Exchequer, as well ſuch as were before the Statute as after, and that without any limitation of time; and I cannot ſee any reaſon that paſt miſtaken Decrees in Courts of Equity ſhould be more favour'd then paſt miſtaken Judgments in Courts of Law; and I hope they ſhall not.</p>
+            <p>By the Year-Book, 27 <hi>H.</hi> 8 <hi>fo.</hi> 15. it is ſet down for a Rule, That a Decree in Chancery ſhall not bind the Right, it being but an Order made by the Court for the preſent, which, upon good Cauſe ſhewn, may be alter'd: Of which Rule it is obſervable, that it is without Limitation of time, when ever good Cauſe may be ſhewn, a miſtaken Decree ought to be alter'd.</p>
+            <p>A great Argument uſed againſt following this <hi>Old Rule is, That if a Decree in Equity were not to be final, there would be no end of Suits: But though a Man may try his Title, as oft as he will, by Ejectment at Common Law; yet we ſee Controverſies at Law have an End; and if there were no hopes that Erronious De<g ref="char:EOLhyphen"/>crees in Equity ſhould be final, there would not be much Struggling to obtain them; and then, perhaps, there would not be ſo many Suits as there are.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
